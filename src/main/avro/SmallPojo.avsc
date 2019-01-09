@@ -1,0 +1,12 @@
+{
+  "type" : "record",
+  "name" : "SmallPojo",
+  "namespace" : "io.schneezey.pojo",
+  "fields" : [ {
+    "name" : "id",
+    "type" : "int"
+  }, {
+    "name" : "testString",
+    "type" : "string"
+  } ]
+}
